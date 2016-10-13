@@ -1,1 +1,1 @@
-# canvas-lighter
+# canvas-lightning

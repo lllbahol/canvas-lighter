@@ -1,3 +1,7 @@
 body{
   background:  rgb(3,25,42);
 }
+
+canvas{
+  display: block;
+}
